@@ -140,6 +140,7 @@ int main(void)
 
 void endgame()
 {
+    
     if (timer > score)
         score = timer;
 
